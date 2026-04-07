@@ -20,7 +20,5 @@ https://hellomanishahere.github.io/manisha-portfolio/
 - LeetCode: https://leetcode.com/u/yogeekchic/
 - Codeforces: https://codeforces.com/profile/yogeekchic
 
----
 
-Built with ❤️ by Manisha Jain
 
